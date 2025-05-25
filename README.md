@@ -52,8 +52,6 @@ where you need a minimal cluster to run integration tests for your applications.
 > 
 > - pay your cloud provider to do it for you, like when you use AWS EKS, Google GKE, Azure AKS, etc
 > or
-> - hire a top-notch engineer like **[Marius](https://lluminarr.com/)** to do it for you, so
-> you get a solution that is cost-effective and scalable.
 
 We will create a cluster consisting of
 - 1 control plane node -> where the core Kubernetes components run
@@ -256,11 +254,3 @@ make test
 
 CONGRATULATIONS! You have just deployed a FastAPI app to a local Kubernetes cluster.
 
-The sky is the limit from here.
-
-### Wanna learn more Real World ML/MLOps?
-
-Subscribe for free to my newsletter to get notified when I publish new articles and courses:
-### [👉👉🏻👉🏼👉🏽👉🏾👉🏿 Subscribe](https://paulabartabajo.substack.com/)
-
-### [👉👉🏻👉🏼👉🏽👉🏾👉🏿 Courses](https://realworldml.net/courses)
